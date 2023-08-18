@@ -1,0 +1,10 @@
+C:\Users\tianyi\source\repos\DSPModeCheck\bin\x64\Release\DSPModeCheck.exe.config
+C:\Users\tianyi\source\repos\DSPModeCheck\bin\x64\Release\DSPModeCheck.exe
+C:\Users\tianyi\source\repos\DSPModeCheck\bin\x64\Release\DSPModeCheck.pdb
+C:\Users\tianyi\source\repos\DSPModeCheck\obj\x64\Release\DSPModeCheck.csproj.AssemblyReference.cache
+C:\Users\tianyi\source\repos\DSPModeCheck\obj\x64\Release\DSPModeCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\tianyi\source\repos\DSPModeCheck\obj\x64\Release\DSPModeCheck.Properties.Resources.resources
+C:\Users\tianyi\source\repos\DSPModeCheck\obj\x64\Release\DSPModeCheck.csproj.GenerateResource.cache
+C:\Users\tianyi\source\repos\DSPModeCheck\obj\x64\Release\DSPModeCheck.csproj.CoreCompileInputs.cache
+C:\Users\tianyi\source\repos\DSPModeCheck\obj\x64\Release\DSPModeCheck.exe
+C:\Users\tianyi\source\repos\DSPModeCheck\obj\x64\Release\DSPModeCheck.pdb
